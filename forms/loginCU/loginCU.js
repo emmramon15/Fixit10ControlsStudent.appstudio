@@ -1,4 +1,3 @@
-
 btnLogin.onclick=function(){
   req = Ajax("https://radlab.creighton.edu/appStudio/authLDAP.php" , "POST", "j_username=" + inptNetID.value + "&j_password=" + inptPassword.value)
 
@@ -20,3 +19,5 @@ if (req.status == 200) { //everything worked.
 btnFavFoods.onclick=function(){
   ChangeForm(favFoods)
 }
+
+

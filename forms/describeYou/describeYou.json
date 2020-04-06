@@ -18,6 +18,33 @@
         "Elements",
         "lblPrompt2.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "describeYou",
+        "Elements",
+        "RadDescribeYou.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "describeYou",
+        "Elements",
+        "LblRadio.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "describeYou",
+        "Elements",
+        "BtnFavExPage.json"
+      ]
     }
   ],
   "class": "",

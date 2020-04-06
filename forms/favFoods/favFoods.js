@@ -1,7 +1,7 @@
 let goodFoods = ["pizza","apples","cookies","sushi","pasta","steak"]
 
 
-Listgroup1.onclick=function(){
+LstGroup1.onclick=function(choice){
   lblFavFoods.value = `You picked ${NSB.$("LstGroup1_" + choice).textContent} - that is a great choice!`
 }
 

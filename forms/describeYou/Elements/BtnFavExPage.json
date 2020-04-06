@@ -28,14 +28,14 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "Button1",
-  "left": 149,
+  "id": "BtnFavExPage",
+  "left": 95,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
   "mRight": "",
   "mTop": "",
-  "onclick": "Button1.onclick()",
+  "onclick": "BtnFavExPage.onclick()",
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 366,
-  "value": "Describe You Page",
-  "width": "auto"
+  "top": 387,
+  "value": "Favorite Exercises Page",
+  "width": 215
 }

@@ -36,6 +36,15 @@
         "Elements",
         "btnFavFoods.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "loginCU",
+        "Elements",
+        "inptPassword.json"
+      ]
     }
   ],
   "class": "",
